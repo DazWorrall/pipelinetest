@@ -1,0 +1,5 @@
+steps:
+  - label: skip me
+    skip: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  - label: run me
+    command: true
